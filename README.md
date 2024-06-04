@@ -1,2 +1,2 @@
 # WahabCalculator
-https://syed-abdulwahab.github.io/WahabCalculator/
+https://syed-abdulwahab.github.io/Calculator/
